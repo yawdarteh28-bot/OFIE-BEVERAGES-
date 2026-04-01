@@ -9,12 +9,12 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #f9f9f9;
+  background-color: #8796ad;
 }
 
 header {
   background: #4a2c2a;
-  color: #fff;
+  color:#bd9d9d;
   padding: 1rem;
   display: flex;
   justify-content: space-between;
@@ -36,13 +36,13 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #fff;
+  color: #a53131;
   text-decoration: none;
 }
 
 .hero {
   background: url('bitters-bg.jpg') no-repeat center center/cover;
-  color: #fff;
+  color: #9c2020;
   text-align: center;
   padding: 5rem 2rem;
 }
@@ -57,8 +57,8 @@ nav ul li a {
 
 .btn {
   display: inline-block;
-  background: #e67e22;
-  color: #fff;
+  background: #a79a8f;
+  color: #c71f1f;
   padding: 0.75rem 1.5rem;
   text-decoration: none;
   border-radius: 5px;
@@ -77,16 +77,16 @@ section {
 }
 
 .product-card {
-  background: #fff;
+  background: #9c7e92;
   padding: 1rem;
-  border: 1px solid #ddd;
+  border: 1px solid #3471b8;
   border-radius: 5px;
   width: 250px;
 }
 
 footer {
-  background: #4a2c2a;
-  color: #fff;
+  background: #dfd3d2;
+  color: #5c0707;
   text-align: center;
   padding: 1rem;
   margin-top: 2rem;
